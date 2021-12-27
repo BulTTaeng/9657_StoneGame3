@@ -14,7 +14,7 @@ dynamic programming
 
 ## What was the key point and the hard part?
 
-If cases dp[i-1] dp[i-3] dp[i-4] SK wins, That means whatever SK takes , the game will be same with i-1 or i-3 or i-4 stone game CY takes first turn.
+If cases dp[i-1] dp[i-3] dp[i-4] SK all wins, That means whatever SK takes , the game will be same with i-1 or i-3 or i-4 stone game CY takes first turn.
 
 Then CY can win the game.
 
